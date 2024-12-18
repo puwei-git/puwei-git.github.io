@@ -10,9 +10,9 @@
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: zh-Hans
+  languageCode: zh
 #  contentDir: content/zh
-  #title: 落木庭
+  title: 落木庭
 #  params:
 #    description: Site description in Chinese...
 #  menu:
