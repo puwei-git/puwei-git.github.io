@@ -30,8 +30,12 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
+    fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    logo:
+      text: "落木庭"
 
 # Site footer
 footer:
@@ -45,16 +49,17 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006-01-02'   # 改为 YYYY-MM-DD 格式（国际标准格式）
+  time_format: '15:04'        # 改为 24 小时制
+
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
+    url: 'https://github.com/puwei-git/puwei-git.github.io.git'
+    content_dir: content/blog
     branch: main
