@@ -4,13 +4,13 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 20
   - name: Blog
     url: blog/
-    weight: 20
+    weight: 30
   - name: Topics
     url: tags/
-    weight: 30
+    weight: 40
   - name: Uses
     url: uses/
-    weight: 40
+    weight: 50
