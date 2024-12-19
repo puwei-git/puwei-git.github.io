@@ -8,7 +8,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: header
+  - block: hero
     content:
       title: "欢迎来到落木庭"
       subtitle: "拾起旧时的落叶，记录其中的岁月。"
