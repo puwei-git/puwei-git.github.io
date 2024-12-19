@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '主页'
 date: 2023-10-24
 type: landing
 
@@ -8,6 +8,14 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: header
+    content:
+      title: "欢迎来到落木庭"
+      subtitle: "拾起旧时的落叶，记录其中的岁月。"
+    design:
+      background: stacked-peaks.svg
+      spacing: ['2rem', '2rem', '4rem', '2rem']
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
