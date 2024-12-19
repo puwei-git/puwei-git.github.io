@@ -1,5 +1,5 @@
 ---
-title: 'home'
+title: 
 date: 2023-10-24
 type: landing
 
@@ -15,24 +15,6 @@ sections:
     design:
       background: stacked-peaks.svg
       spacing: ['2rem', '2rem', '4rem', '2rem']
-
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
   - block: collection
     id:
     content:

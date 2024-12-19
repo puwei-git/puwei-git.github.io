@@ -8,9 +8,9 @@ main:
   - name: 博客
     url: blog/
     weight: 30
-  - name: 分类
+  - name: 杂记
     url: tags/
     weight: 40
-  - name: 杂记
+  - name: 关于
     url: uses/
     weight: 50
