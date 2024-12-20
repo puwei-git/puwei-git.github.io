@@ -13,8 +13,18 @@ sections:
       title: "欢迎来到落木庭"
       subtitle: "拾起旧时的落叶，记录其中的岁月。"
     design:
-      background: stacked-peaks.svg
-      spacing: ['2rem', '2rem', '4rem', '2rem']
+      spacing:
+        padding: [0, 0, 0, 0]
+         margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+       color: "navy"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: bg-triangles.svg
+          filters:
+            brightness: 0.5
   - block: collection
     id:
     content:
