@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 16 Jan 2025 17:17:35 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test1111</title><link>https://puwei-git.github.io/notes/test1/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/notes/test1/</guid><description>&lt;p>显示Cut out summary from your post content here.&lt;/p></description></item><item><title>Test1111</title><link>https://puwei-git.github.io/posts/test1/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/posts/test1/</guid><description>&lt;p>显示Cut out summary from your post content here.&lt;/p></description></item><item><title/><link>https://puwei-git.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;pre tabindex="0">&lt;code>---
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 17 Jan 2025 00:38:26 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h1 id="说明">说明&lt;/h1>
+&lt;ul>
+&lt;li>本教程仅保证Pycharm 2022.3版本及以下激活成功。&lt;/li>
+&lt;li>本教程参考自&lt;a href="https://blog.junxu666.top/p/7624.html">程序员徐公博客&lt;/a>，根据个人需要，有部分删改。&lt;/li>
+&lt;li>本教程 Pycharm 破解补丁、激活码均收集于网络，请勿商用，仅供个人学习使用，如有侵权，请联系作者删除。若条件允许，希望大家购买正版 ！&lt;/li>
+&lt;li>本文章安装破解相关文件：&lt;a href="https://pan.baidu.com/s/1RRxxDHBP1jkt8JaTH-_GdQ?pwd=1111">https://pan.baidu.com/s/1RRxxDHBP1jkt8JaTH-_GdQ?pwd=1111&lt;/a>
+提取码：1111&lt;/li>
+&lt;/ul>
+&lt;h1 id="第一步下载pycharm安装包">第一步：下载Pycharm安装包&lt;/h1>
+&lt;p>访问 Pycharm 官网，下载 Pycharm 2022.3 版本的安装包，下载链接如下 : &lt;a href="https://www.jetbrains.com/pycharm/download/other.html">https://www.jetbrains.com/pycharm/download/other.html&lt;/a>，也可以直接使用笔者下载好分享出来的。
+![[Pasted image 20250116223344.png]]
+打开页面后，找到对应版本点击下载即可。&lt;/p></description></item><item><title/><link>https://puwei-git.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;pre tabindex="0">&lt;code>---
 title: Nav
 aliases: [nav]
 type: nav
@@ -97,6 +108,14 @@ date: 2023-05-26 14:11
 - bookmark item three https://bookmark-item-three.com
 
 &amp;lt;/div&amp;gt;
+&lt;/code>&lt;/pre></description></item><item><title/><link>https://puwei-git.github.io/snippets/frontmatter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/snippets/frontmatter/</guid><description>&lt;pre tabindex="0">&lt;code>---
+title: &amp;lt;% tp.file.title %&amp;gt;
+aliases: 
+tags:
+ - _Misc
+date: &amp;lt;% tp.date.now() %&amp;gt;
+time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt;
+---
 &lt;/code>&lt;/pre></description></item><item><title>千里之行，始于足下</title><link>https://puwei-git.github.io/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/nav/</guid><description>&lt;h3 id="常用搜索引擎">常用搜索引擎&lt;/h3>
 &lt;table>
  &lt;thead>
@@ -110,7 +129,7 @@ date: 2023-05-26 14:11
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>&lt;a href="https://github.com/">GitHub&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/" title="GitHub 是一个面向开源及私有软件项目的托管平台">GitHub&lt;/a>&lt;/td>
  &lt;td>&lt;a href="">&lt;/a>&lt;/td>
  &lt;td>&lt;a href="">&lt;/a>&lt;/td>
  &lt;td>&lt;a href="">&lt;/a>&lt;/td>
