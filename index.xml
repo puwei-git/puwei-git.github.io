@@ -1,1 +1,420 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://example.com/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 15 Jan 2025 21:07:45 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Test1111</title><link>https://example.com/posts/test1/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://example.com/posts/test1/</guid><description>&lt;p>显示Cut out summary from your post content here.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 16 Jan 2025 17:17:35 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test1111</title><link>https://puwei-git.github.io/notes/test1/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/notes/test1/</guid><description>&lt;p>显示Cut out summary from your post content here.&lt;/p></description></item><item><title>Test1111</title><link>https://puwei-git.github.io/posts/test1/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/posts/test1/</guid><description>&lt;p>显示Cut out summary from your post content here.&lt;/p></description></item><item><title/><link>https://puwei-git.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;pre tabindex="0">&lt;code>---
+title: Nav
+aliases: [nav]
+type: nav
+date: 2023-05-26 14:11
+---
+
+&amp;lt;div class=&amp;#34;nav&amp;#34;&amp;gt;
+
+## 🌞 *分类 ONE*
+- [mineitem one](/)
+- [mineitem two](/archive)
+- [mineitem three](https://nav-item-three.com)
+ 
+## 🔨 *分类 TWO*
+- [toolitem three](https://nav-item-three.com)
+
+## 📑 *分类 THREE*
+- [docitem one](/)
+- [docitem two](/archive)
+- [docitem three](https://nav-item-three.com)
+
+&amp;lt;/div&amp;gt;
+
+## 🔖 *标签 BOOKMARKs*
+
+&amp;lt;div class=&amp;#34;bookmark&amp;#34;&amp;gt;
+
+- bookmark item one https://bookmark-item-one.com
+- bookmark item two https://bookmark-item-two.com
+- bookmark item three https://bookmark-item-three.com
+
+&amp;lt;/div&amp;gt;
+&lt;/code>&lt;/pre></description></item><item><title/><link>https://puwei-git.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/archive/</guid><description>&lt;pre tabindex="0">&lt;code>---
+title: Nav
+aliases: [nav]
+type: nav
+date: 2023-05-26 14:11
+---
+
+&amp;lt;div class=&amp;#34;nav&amp;#34;&amp;gt;
+
+## 🌞 *分类 ONE*
+- [mineitem one](/)
+- [mineitem two](/archive)
+- [mineitem three](https://nav-item-three.com)
+ 
+## 🔨 *分类 TWO*
+- [toolitem three](https://nav-item-three.com)
+
+## 📑 *分类 THREE*
+- [docitem one](/)
+- [docitem two](/archive)
+- [docitem three](https://nav-item-three.com)
+
+&amp;lt;/div&amp;gt;
+
+## 🔖 *标签 BOOKMARKs*
+
+&amp;lt;div class=&amp;#34;bookmark&amp;#34;&amp;gt;
+
+- bookmark item one https://bookmark-item-one.com
+- bookmark item two https://bookmark-item-two.com
+- bookmark item three https://bookmark-item-three.com
+
+&amp;lt;/div&amp;gt;
+&lt;/code>&lt;/pre></description></item><item><title/><link>https://puwei-git.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/search/</guid><description>&lt;pre tabindex="0">&lt;code>---
+title: Nav
+aliases: [nav]
+type: nav
+date: 2023-05-26 14:11
+---
+
+&amp;lt;div class=&amp;#34;nav&amp;#34;&amp;gt;
+
+## 🌞 *分类 ONE*
+- [mineitem one](/)
+- [mineitem two](/archive)
+- [mineitem three](https://nav-item-three.com)
+ 
+## 🔨 *分类 TWO*
+- [toolitem three](https://nav-item-three.com)
+
+## 📑 *分类 THREE*
+- [docitem one](/)
+- [docitem two](/archive)
+- [docitem three](https://nav-item-three.com)
+
+&amp;lt;/div&amp;gt;
+
+## 🔖 *标签 BOOKMARKs*
+
+&amp;lt;div class=&amp;#34;bookmark&amp;#34;&amp;gt;
+
+- bookmark item one https://bookmark-item-one.com
+- bookmark item two https://bookmark-item-two.com
+- bookmark item three https://bookmark-item-three.com
+
+&amp;lt;/div&amp;gt;
+&lt;/code>&lt;/pre></description></item><item><title>千里之行，始于足下</title><link>https://puwei-git.github.io/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/nav/</guid><description>&lt;h3 id="常用搜索引擎">常用搜索引擎&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://github.com/">GitHub&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.bilibili.com/">B站&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.xiaohongshu.com">小红书&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://szfilehelper.weixin.qq.com/">微信文件传输&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="guet">GUET&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.guet.edu.cn/lib/">桂电图书馆&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://v.guet.edu.cn/">桂电VPN&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://iw.guet.edu.cn/">桂电智慧校园&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.guet.edu.cn/gra/_t14/">桂电研究生院&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://yjsjy.guet.edu.cn/(S(hyaus1mtmttirosr2pyiqmdc))/home/stulogin">桂电研究生管理系统&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Ffwdt.guet.edu.cn%2FEIP%2Fuser%2Findex">桂电学校综合服务大厅&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.szlcsc.com/">立创商城&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.xuexi.cn/">学习强国&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://zhtj.youth.cn/zhtj/">智慧团建&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://10.0.1.5/">注销页&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="bupt">BUPT&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://netaccount.bupt.edu.cn/auth/login">北邮校园网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://webvpn.bupt.edu.cn/login">北邮VPN&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://libcon.bupt.edu.cn/">北邮电子资源访问&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://byr.pt/login.php">北邮人PT&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://mail.bupt.edu.cn/">北邮邮箱&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://my.bupt.edu.cn/">北邮信息门户&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://grs.bupt.edu.cn/">北邮研究生院&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://yzb.bupt.edu.cn/">北邮研招网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://bbs.byr.cn/#!default">北邮人论坛&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://ucloud.bupt.edu.cn/?ticket=ST-173929-T-pRITORPlHRMRUfo6l-SPb5V4Qc94b400b8f02">教学云平台&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://sice.bupt.edu.cn/index.htm">北邮信通院&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://lib.bupt.edu.cn/index.html">北邮图书馆&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://umaster.bupt.edu.cn/login">邮大师&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.bjyouth.net/">北京共青团&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://ec.jray.xyz/">北邮空教室&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://mail.126.com/">126邮箱&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://mail.google.com/">谷歌邮箱&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.duolingo.com/">多邻国&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://leetcode.cn/">力扣&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="文献检索">文献检索&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://arxiv.org/">arXiv&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://ieeexplore.ieee.org">IEEE Xplore&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.cnki.net/">知网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.webofscience.com/">Web of Science&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://ac.scmor.com/">思谋学术&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="http://4243.net/">大木虫学术&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://site.sciping.com/">科塔学术&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://onlinelibrary.wiley.com">Wiley&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://link.springer.com/">Springer&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.easychair.org/cfp/">CFP&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.techrxiv.org/">TechRxiv&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://scholar.google.com/schhp?hl=zh-CN">谷歌学术&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="学术工具">学术工具&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://simpletex.cn/ai/latex_ocr">公式识别&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.overleaf.com/project">Overleaf&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://chat.openai.com/chat">ChatGPT&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://chat.deepseek.com/">DeepSeek&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://gemini.google.com/app?utm_source=app_launcher">Gemini&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.bing.com/new">bing chat&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://chat86.co/524395">Chat8&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.researchgate.net/">ResearchGate&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.connectedpapers.com/">Connected Papers&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://ijournal.topeditsci.com/">爱文献&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://template-selector.ieee.org/secure/templateSelector/publicationType">IEEE模板&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://researchrabbitapp.com/">Research Rabbit&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch">中国专利检索&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://epub.cnipa.gov.cn/Index">国家知识产权局&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://kd.nsfc.cn/finalProjectInit">国自然数据&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="论坛">论坛&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.chaspark.com/">黄大年茶思屋&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://medium.com/">Medium&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://news.ycombinator.com/">Hacker News&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.csdn.net/">CSDN&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.zhihu.com/">知乎&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.icourse163.org/">MOOC&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Main_Page">维基百科&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="图书">图书&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://zh.z-lib.gs/">Z-Library&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://www.ucdrs.superlib.net/">全国图书馆&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://libgen.rs/">Library Gene&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://gutenberg.org/">Project Gutenberg&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="备用工具">备用工具&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://convertio.co/zh/">Convertio&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://www.pigai.org/">批改网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://iguge.net/">igg谷歌访问助手&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.cryxr.xyz/#/dashboard">探索者&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.natfrp.com/user/">SakuraFrp内网穿透&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.youzack.com/">英语听力精听&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://yz.chsi.com.cn/">研招网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://hunhepan.com/">混合盘官网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://yftk.fun/">炫猿总站&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.jianguoyun.com/">坚果云&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.huluobuzhou.com/">胡萝卜周&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="闲暇娱乐">闲暇娱乐&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.taobao.com/">淘宝&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://music.163.com/">网易云&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.douyin.com/">抖音&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.miguvideo.com/p/channel/">咪咕视频&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.mgtv.com/">芒果tv&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://v.qq.com/">腾讯视频&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.iqiyi.com/">爱奇艺&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pinduoduo.com/">拼多多&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.miyoushe.com/">米游社&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.youtube.com/">YouTube&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://twitter.com/home">Twitter / X&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://mhyy.mihoyo.com/">米哈游云游戏&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://wall.alphacoders.com/?lang=Chinese">壁纸&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://dick.xfani.com/">稀饭动漫&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pgame.vip/">pgame游戏下载&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://web.sanguosha.com/220/h5_2/index_210000.php">三国杀&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pixiv.net/">pixiv&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://pixivic.com/?VNK=a7b72159">pixivic&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://byruthub.org/">俄国破解游戏&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="标签-bookmarks">标签 BOOKMARKs&lt;/h3>
+&lt;ul>
+&lt;li>bookmark item one &lt;a href="https://bookmark-item-one.com">https://bookmark-item-one.com&lt;/a>&lt;/li>
+&lt;li>bookmark item two &lt;a href="https://bookmark-item-two.com">https://bookmark-item-two.com&lt;/a>&lt;/li>
+&lt;li>bookmark item three &lt;a href="https://bookmark-item-three.com">https://bookmark-item-three.com&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
