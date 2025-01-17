@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pytorch on 落木庭</title><link>https://puwei-git.github.io/tags/pytorch/</link><description>Recent content in Pytorch on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Jan 2025 02:12:45 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/tags/pytorch/index.xml" rel="self" type="application/rss+xml"/><item><title>基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）</title><link>https://puwei-git.github.io/posts/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84pytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-22.04/</link><pubDate>Tue, 21 May 2024 22:10:38 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84pytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-22.04/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
+&lt;ul>
+&lt;li>为解决不同项目的深度学习环境不同以及配置配置麻烦的问题，采用docker容器，通过下载运行&lt;a href="https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch/tags">官网&lt;/a>现成的容器进行配置。&lt;/li>
+&lt;li>为解决docker内无法直观显示图片等问题，采用PyCharm调用docker中的环境。&lt;/li>
+&lt;li>本配置使用本机的docker,而不是服务器中的docker,后续有需要或将此文章更新为两种配置。&lt;/li>
+&lt;li>配置此文环境且写此文档时，本机电脑配置为AMD Ryzen 9 3900X + NVIDIA GeForce GTX 1660 SUPER。&lt;/li>
+&lt;li>本机系统为：Ubuntu 22.04&lt;/li>
+&lt;/ul>
+&lt;p>PS：由于前后花费较多时间，并且文档整理期间也有事情耽误几天，或有遗漏错误，还望指正！&lt;/p></description></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 落木庭</title><link>https://puwei-git.github.io/posts/</link><description>Recent content in Posts on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 15 Jan 2025 21:07:45 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 落木庭</title><link>https://puwei-git.github.io/posts/</link><description>Recent content in Posts on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Jan 2025 02:14:45 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
 &lt;ul>
 &lt;li>本教程仅保证Pycharm 2022.3版本及以下激活成功。&lt;/li>
 &lt;li>本教程参考自&lt;a href="https://blog.junxu666.top/p/7624.html">程序员徐公博客&lt;/a>，根据个人需要，有部分删改。&lt;/li>
@@ -22,4 +22,37 @@ Pycharm 运行成功后，会弹出如下对话框
 &lt;img src="https://s2.loli.net/2025/01/17/IEMCJRN4jrVfyTD.png" alt="image.png|550">&lt;/li>
 &lt;/ul>
 &lt;p>这里会强制用户需要先登录 JetBrains 账户才能使用：
-&lt;img src="https://s2.loli.net/2025/01/17/aeDCHSqz9kNZbo3.png" alt="image.png">&lt;/p></description></item></channel></rss>
+&lt;img src="https://s2.loli.net/2025/01/17/aeDCHSqz9kNZbo3.png" alt="image.png">&lt;/p></description></item><item><title>蓝牙突然无法启动，无法连接（ubuntu 22.04）</title><link>https://puwei-git.github.io/posts/%E8%93%9D%E7%89%99%E7%AA%81%E7%84%B6%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5ubuntu-22.04/</link><pubDate>Fri, 24 May 2024 09:44:26 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E8%93%9D%E7%89%99%E7%AA%81%E7%84%B6%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5ubuntu-22.04/</guid><description>&lt;h3 id="问题描述">问题描述&lt;/h3>
+&lt;p>ubuntu的蓝牙之前正常使用，突然无法使用，并且wifi等没有问题。主要错误标示为Bluetooth: hci0: Reading Intel version command failed (-110)
+&lt;img src="https://i-blog.csdnimg.cn/blog_migrate/9359c03615288908f378c01713f3029f.png" alt="在这里插入图片描述">
+图中开启的地方可以拨动，但是拨动后并没有反应，也不变颜色。&lt;/p></description></item><item><title>基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）</title><link>https://puwei-git.github.io/posts/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84pytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-22.04/</link><pubDate>Tue, 21 May 2024 22:10:38 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84pytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-22.04/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
+&lt;ul>
+&lt;li>为解决不同项目的深度学习环境不同以及配置配置麻烦的问题，采用docker容器，通过下载运行&lt;a href="https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch/tags">官网&lt;/a>现成的容器进行配置。&lt;/li>
+&lt;li>为解决docker内无法直观显示图片等问题，采用PyCharm调用docker中的环境。&lt;/li>
+&lt;li>本配置使用本机的docker,而不是服务器中的docker,后续有需要或将此文章更新为两种配置。&lt;/li>
+&lt;li>配置此文环境且写此文档时，本机电脑配置为AMD Ryzen 9 3900X + NVIDIA GeForce GTX 1660 SUPER。&lt;/li>
+&lt;li>本机系统为：Ubuntu 22.04&lt;/li>
+&lt;/ul>
+&lt;p>PS：由于前后花费较多时间，并且文档整理期间也有事情耽误几天，或有遗漏错误，还望指正！&lt;/p></description></item><item><title>Linux基础操作命令（Ubuntu环境）</title><link>https://puwei-git.github.io/posts/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4ubuntu%E7%8E%AF%E5%A2%83/</link><pubDate>Tue, 14 May 2024 16:27:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4ubuntu%E7%8E%AF%E5%A2%83/</guid><description>&lt;h2 id="shell基本操作命令选项参数">Shell基本操作：命令+选项+参数&lt;/h2>
+&lt;h3 id="系统命令">系统命令&lt;/h3>
+&lt;pre>&lt;code>目录信息查看命令：ls 
+目录切换命令：cd 
+当前路径显示命令：pwd 
+系统信息查看命令：uname 
+清屏命令：clear 
+
+创建新文件命令：touch（文本文件类型，与vim创建的没有区别） 
+创建文件夹命令：mkdir 
+文件及目录删除命令：rm、rm 目录名 -rf 使用参数强制递归删除文件夹 
+文件夹（目录）删除命令：rmdir 
+文件复制命令：cp 
+文件移动命令：mv 
+显示文件内容命令：cat 
+
+切换用户执行身份命令：sudo 
+添加用户命令：adduser（需要用root身份） 
+删除用户命令：deluser 
+切换用户命令：su 
+进入root界面：sudo -su 
+&lt;/code>&lt;/pre>
+&lt;p>文件查询和搜索：&lt;/p></description></item></channel></rss>
