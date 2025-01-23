@@ -2,50 +2,50 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th>功能&lt;/th>
- &lt;th>markdown语法&lt;/th>
+ &lt;th style="text-align: center">功能&lt;/th>
+ &lt;th style="text-align: center">markdown语法&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td>标题&lt;/td>
- &lt;td># h1&lt;br>## h2&lt;br>### h3&lt;/td>
+ &lt;td style="text-align: center">标题&lt;/td>
+ &lt;td style="text-align: center"># h1&lt;br>## h2&lt;br>### h3&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>粗体&lt;/td>
- &lt;td>&lt;code>**加粗**&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">粗体&lt;/td>
+ &lt;td style="text-align: center">&lt;code>**加粗**&lt;/code>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>斜体&lt;/td>
- &lt;td>&lt;code>*斜体*&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">斜体&lt;/td>
+ &lt;td style="text-align: center">&lt;code>*斜体*&lt;/code>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>引用块&lt;/td>
- &lt;td>&amp;gt; 引用块&lt;/td>
+ &lt;td style="text-align: center">引用块&lt;/td>
+ &lt;td style="text-align: center">&amp;gt; 引用块&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>有序列表&lt;/td>
- &lt;td>1.第一项&lt;br>2.第二项&lt;br>3.第三项&lt;/td>
+ &lt;td style="text-align: center">有序列表&lt;/td>
+ &lt;td style="text-align: center">1.第一项&lt;br>2.第二项&lt;br>3.第三项&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>无序列表&lt;/td>
- &lt;td>- 第一项&lt;br>- 第二项&lt;br>- 第三项&lt;/td>
+ &lt;td style="text-align: center">无序列表&lt;/td>
+ &lt;td style="text-align: center">- 第一项&lt;br>- 第二项&lt;br>- 第三项&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>代码&lt;/td>
- &lt;td>`代码`&lt;/td>
+ &lt;td style="text-align: center">代码&lt;/td>
+ &lt;td style="text-align: center">`代码`&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>分割线&lt;/td>
- &lt;td>&lt;code>---&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">分割线&lt;/td>
+ &lt;td style="text-align: center">&lt;code>---&lt;/code>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>链接&lt;/td>
- &lt;td>&lt;code>[标题](https://www.biaoti.com)&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">链接&lt;/td>
+ &lt;td style="text-align: center">&lt;code>[标题](https://www.biaoti.com)&lt;/code>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>图片&lt;/td>
- &lt;td>&lt;code>![图片](图片.jpg)&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">图片&lt;/td>
+ &lt;td style="text-align: center">&lt;code>![图片](图片.jpg)&lt;/code>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
