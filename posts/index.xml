@@ -1,29 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 落木庭</title><link>https://puwei-git.github.io/posts/</link><description>Recent content in Posts on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Jan 2025 23:00:01 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo常用命令</title><link>https://puwei-git.github.io/posts/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Thu, 23 Jan 2025 23:00:01 +0800</pubDate><guid>https://puwei-git.github.io/posts/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h3 id="创建hugo本地博客">创建hugo本地博客&lt;/h3>
-&lt;p>打开终端&lt;/p>
-&lt;pre tabindex="0">&lt;code>cd D:\Documents\BaiduSyncdisk\Github
-hugo new site blog
-cd blog
-git init
-&lt;/code>&lt;/pre>&lt;h3 id="git上传代码">git上传代码&lt;/h3>
-&lt;pre tabindex="0">&lt;code>//默认分支与yaml文件相同，设为main
-git branch -M main
-
-//对接远程库
-git remote add source https://github.com/puwei-git/myblog.git
-git remote add pages https://github.com/puwei-git/puwei-git.github.io.git
-
-//验证远程库配置
-git remote -v
-
-//添加文件到暂存区
-git add .
-
-//将暂存区中的更改提交到本地的仓库，并添加信息
-git commit -m &amp;#34;更改信息&amp;#34;
-
-//上传远程代码并合并，上传到source库的main分支
-git push source main
-&lt;/code>&lt;/pre></description></item><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 落木庭</title><link>https://puwei-git.github.io/posts/</link><description>Recent content in Posts on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Jan 2025 22:05:30 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
 &lt;table>
  &lt;thead>
  &lt;tr>
