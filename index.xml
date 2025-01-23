@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Jan 2025 23:39:26 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Fri, 24 Jan 2025 01:03:51 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
+&lt;ul>
+&lt;li>什么是虚拟环境
+它是一个虚拟化，从电脑独立开辟出来的环境。通俗的来讲，虚拟环境就是借助虚拟机docker来把一部分内容独立出来，我们把这部分独立出来的东西称作“容器”，在这个容器中，我们可以只安装我们需要的依赖包，各个容器之间互相隔离，互不影响。&lt;/li>
+&lt;li>为什么要创建虚拟环境
+在实际项目开发中，我们通常会根据自己的需求去下载各种相应的框架库，但是可能每个项目使用的框架库并不一样，或使用框架的版本不一样，这样需要我们根据需求不断的更新或卸载相应的库。直接对我们的python环境操作会让我们的开发环境和项目造成很多不必要的麻烦，管理也相当混乱。&lt;/li>
+&lt;li>创建虚拟环境
+conda create -n &amp;lt;env_name&amp;gt; python=3.8
+同时安装必要的包：
+conda create -n &amp;lt;env_name&amp;gt; numpy matplotlib python=3.8&lt;/li>
+&lt;li>复制虚拟环境
+conda create -n &amp;lt;new_env_name&amp;gt; &amp;ndash;clone &amp;lt;env_name&amp;gt;&lt;/li>
+&lt;li>安装相应包（只为当前激活的环境）
+conda install name&lt;/li>
+&lt;li>临时换源快速安装
+conda install name=0.0.0 -c &lt;a href="https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/">https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/linux-64/&lt;/a>&lt;/li>
+&lt;li>激活虚拟环境
+source activate &amp;lt;env_name&amp;gt;
+可能遇到问题：bash: activate: 没有那个文件或目录
+解决方法：添加环境变量：export PATH=&amp;quot;~/anaconda3/bin:$PATH&amp;quot;&lt;/li>
+&lt;li>退出虚拟环境
+conda deactivate &amp;lt;env_name&amp;gt;&lt;/li>
+&lt;li>退出当前虚拟环境
+conda deactivate&lt;/li>
+&lt;li>查看虚拟环境
+conda env list&lt;/li>
+&lt;li>删除虚拟环境
+conda remove -n &amp;lt;env_name&amp;gt; &amp;ndash;all&lt;/li>
+&lt;li>pip 使用
+创建虚拟环境后如果直接用pip安装python包，默认会使用全局pip，所以pip安装的包会对所有环境生效。如果要安装只对某个虚拟环境生效的python包，
+&lt;ul>
+&lt;li>制定虚拟环境名称：conda install -n &amp;lt;env_name&amp;gt; tensorflow-gpu=1.2.1&lt;/li>
+&lt;li>也可以在创建虚拟环境的时候指定pip只对当前环境生效（https://stackoverflow.com/questions/20928566/conda-installing-local-development-package-into-single-conda-environment%EF%BC%89%EF%BC%9A）&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>pip / conda 导出和安装环境组件 requirements.txt
+&lt;a href="https://www.cnblogs.com/maxiaodoubao/p/10605850.html">https://www.cnblogs.com/maxiaodoubao/p/10605850.html&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="conda设置默认虚拟环境">conda设置默认虚拟环境&lt;/h2>
+&lt;p>输入：vim ~/.bashrc
+在最后一行添加：conda activate &amp;lt;env_name&amp;gt;
+其中，&amp;lt;env_name&amp;gt;为你需要设置的默认启动虚拟环境名称&lt;/p></description></item><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
 &lt;table>
  &lt;thead>
  &lt;tr>
