@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on 落木庭</title><link>https://puwei-git.github.io/tags/python/</link><description>Recent content in Python on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 15 Jan 2025 21:07:45 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on 落木庭</title><link>https://puwei-git.github.io/tags/python/</link><description>Recent content in Python on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Jan 2025 21:07:45 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Thu, 14 Nov 2024 12:05:39 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
 &lt;ul>
 &lt;li>本教程仅保证Pycharm 2022.3版本及以下激活成功。&lt;/li>
 &lt;li>本教程参考自&lt;a href="https://blog.junxu666.top/p/7624.html">程序员徐公博客&lt;/a>，根据个人需要，有部分删改。&lt;/li>
@@ -17,9 +17,6 @@
 &lt;li>卸载完成后，双击刚刚下载好的 Pycharm 2022.3 版本安装包。弹框会提示选择安装路径，我这里直接选择的默认安装路径C:\Program Files\JetBrains\PyCharm 2022.3.2&lt;/li>
 &lt;li>然后，&lt;strong>勾选 Create Desktop Shortcut&lt;/strong> 创建 Pycharm 桌面快捷启动方式，以方便后面快速打开 Pycharm，再点击 Next 按钮 ，点击 Install 按钮，开始安装。&lt;/li>
 &lt;li>等待安装完成后，&lt;strong>勾选 Run Pycharm&lt;/strong>, 点击 Finish 按钮即运行 Pycharm 。
-Pycharm 运行成功后，会弹出如下对话框
-&lt;img src="https://s2.loli.net/2025/01/17/FWKhXU8irngulA6.png" alt="image.png|625">
-&lt;img src="https://s2.loli.net/2025/01/17/IEMCJRN4jrVfyTD.png" alt="image.png|550">&lt;/li>
+Pycharm 运行成功后，会弹出如下对话框&lt;/li>
 &lt;/ul>
-&lt;p>这里会强制用户需要先登录 JetBrains 账户才能使用：
-&lt;img src="https://s2.loli.net/2025/01/17/aeDCHSqz9kNZbo3.png" alt="image.png">&lt;/p></description></item></channel></rss>
+&lt;p>&lt;img src="https://s2.loli.net/2025/01/17/FWKhXU8irngulA6.png" alt="image.png|400">&lt;/p></description></item></channel></rss>

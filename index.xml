@@ -1,4 +1,216 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Jan 2025 02:14:45 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Wed, 15 Jan 2025 21:07:45 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 23 Jan 2025 23:39:26 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo常用命令</title><link>https://puwei-git.github.io/posts/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Thu, 23 Jan 2025 23:00:01 +0800</pubDate><guid>https://puwei-git.github.io/posts/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h3 id="创建hugo本地博客">创建hugo本地博客&lt;/h3>
+&lt;p>打开终端&lt;/p>
+&lt;pre tabindex="0">&lt;code>cd D:\Documents\BaiduSyncdisk\Github
+hugo new site blog
+cd blog
+git init
+&lt;/code>&lt;/pre>&lt;h3 id="git上传代码">git上传代码&lt;/h3>
+&lt;pre tabindex="0">&lt;code>//默认分支与yaml文件相同，设为main
+git branch -M main
+
+//对接远程库
+git remote add source https://github.com/puwei-git/myblog.git
+git remote add pages https://github.com/puwei-git/puwei-git.github.io.git
+
+//验证远程库配置
+git remote -v
+
+//添加文件到暂存区
+git add .
+
+//将暂存区中的更改提交到本地的仓库，并添加信息
+git commit -m &amp;#34;更改信息&amp;#34;
+
+//上传远程代码并合并，上传到source库的main分支
+git push source main
+&lt;/code>&lt;/pre></description></item><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>功能&lt;/th>
+ &lt;th>markdown语法&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>标题&lt;/td>
+ &lt;td># h1&lt;br>## h2&lt;br>### h3&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>粗体&lt;/td>
+ &lt;td>&lt;code>**加粗**&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>斜体&lt;/td>
+ &lt;td>&lt;code>*斜体*&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>引用块&lt;/td>
+ &lt;td>&amp;gt; 引用块&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>有序列表&lt;/td>
+ &lt;td>1.第一项&lt;br>2.第二项&lt;br>3.第三项&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>无序列表&lt;/td>
+ &lt;td>- 第一项&lt;br>- 第二项&lt;br>- 第三项&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>代码&lt;/td>
+ &lt;td>`代码`&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>分割线&lt;/td>
+ &lt;td>&lt;code>---&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>链接&lt;/td>
+ &lt;td>&lt;code>[标题](https://www.biaoti.com)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>图片&lt;/td>
+ &lt;td>&lt;code>![图片](图片.jpg)&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="标题语法">标题语法&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">功能&lt;/th>
+ &lt;th style="text-align: center">markdown语法&lt;/th>
+ &lt;th style="text-align: center">预览效果&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">一级标题&lt;/td>
+ &lt;td style="text-align: center">&lt;code># Heading level 1&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;h1>Heading level 1&lt;/h1>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">二级标题&lt;/td>
+ &lt;td style="text-align: center">&lt;code>## Heading level 2&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;h2>Heading level 2&lt;/h2>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">三级标题&lt;/td>
+ &lt;td style="text-align: center">&lt;code>### Heading level 3&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;h3>Heading level 3&lt;/h3>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">四级标题&lt;/td>
+ &lt;td style="text-align: center">&lt;code>#### Heading level 4&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;h4>Heading level 4&lt;/h4>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">五级标题&lt;/td>
+ &lt;td style="text-align: center">&lt;code>##### Heading level 5&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;h5>Heading level 5&lt;/h5>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">六级标题&lt;/td>
+ &lt;td style="text-align: center">&lt;code>###### Heading level 6&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;h6>Heading level 6&lt;/h6>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="表格对齐">表格对齐&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">表格对齐语法&lt;/th>
+ &lt;th style="text-align: left">左对齐&lt;/th>
+ &lt;th style="text-align: center">居中对齐&lt;/th>
+ &lt;th style="text-align: right">右对齐&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">markdown语法&lt;/td>
+ &lt;td style="text-align: left">&lt;code>:-----&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;code>:-----:&lt;/code>&lt;/td>
+ &lt;td style="text-align: right">&lt;code>-----:&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">对齐效果&lt;/td>
+ &lt;td style="text-align: left">左对齐&lt;/td>
+ &lt;td style="text-align: center">居中对齐&lt;/td>
+ &lt;td style="text-align: right">右对齐&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="文本语法">文本语法&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">功能&lt;/th>
+ &lt;th style="text-align: center">markdown语法&lt;/th>
+ &lt;th style="text-align: center">预览效果&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">加粗&lt;/td>
+ &lt;td style="text-align: center">&lt;code>**加粗**&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;strong>加粗&lt;/strong>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">斜体&lt;/td>
+ &lt;td style="text-align: center">&lt;code>*斜体*&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;em>斜体&lt;/em>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">删除线&lt;/td>
+ &lt;td style="text-align: center">&lt;code>~~删除线~~&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;del>删除线&lt;/del>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">行内代码&lt;/td>
+ &lt;td style="text-align: center">`hello world`&lt;/td>
+ &lt;td style="text-align: center">&lt;code>hello world&lt;/code>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">下划线&lt;/td>
+ &lt;td style="text-align: center">&lt;code>&amp;lt;u&amp;gt;下划线&amp;lt;/u&amp;gt;&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;u>下划线&lt;/u>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">下划线(仅此主题)&lt;/td>
+ &lt;td style="text-align: center">&lt;code>*_下划线*&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;em>_下划线&lt;/em>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">高亮(仅此主题)&lt;/td>
+ &lt;td style="text-align: center">&lt;code>*=高亮*&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;em>=高亮&lt;/em>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">超链接&lt;/td>
+ &lt;td style="text-align: center">&lt;code>[超链接显示名](超链接地址 &amp;quot;超链接title&amp;quot;)&lt;/code>&lt;/td>
+ &lt;td style="text-align: center">&lt;a href="%E8%B6%85%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80" title="超链接title">超链接显示名&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="转义字符">转义字符&lt;/h2>
+&lt;p>在字符前面添加反斜杠字符 \ 。&lt;/p></description></item><item><title>一箩筐</title><link>https://puwei-git.github.io/wiki/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://puwei-git.github.io/wiki/</guid><description>&lt;h3 id="博客搭建过程参考待整理">博客搭建过程参考（待整理）&lt;/h3>
+&lt;ul>
+&lt;li>主题：&lt;a href="https://github.com/loveminimal/hugo-theme-virgo">virgo&lt;/a>&lt;/li>
+&lt;li>B站视频：&lt;a href="https://www.bilibili.com/video/BV1H5CiYHEQR?spm_id_from=333.788.recommend_more_video.1&amp;amp;vd_source=15a167d09b9cba40e860bfcd6533b202">陈三月Jules&lt;/a>&lt;/li>
+&lt;li>github部署：
+-配置：&lt;a href="https://aituyaa.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-hugo-theme-virgo-%E4%B8%BB%E9%A2%98/">virgo作者博客&lt;/a>&lt;/li>
+&lt;li>图床：smms，&lt;a href="https://blog.csdn.net/m0_56311797/article/details/134598968">配置&lt;/a>&lt;/li>
+&lt;li>obdidian侧：&lt;a href="https://blog.csdn.net/gitblog_00893/article/details/141238667">配置&lt;/a>
+obsidian + picgo 报错 upload failed, check dev console，直接下载最新版picgo重新安装配置就可以正常使用了&lt;/li>
+&lt;li>写文章：obsidian&lt;/li>
+&lt;li>待添加：背景音乐、博客搬家、主题优化（字体颜色大小等）、代码复制。。。&lt;/li>
+&lt;/ul>
+&lt;h4 id="将网站收录到googlebaidu失败">将网站收录到Google，baidu（失败）&lt;/h4>
+&lt;p>谷歌收录网站：&lt;a href="https://search.google.com/search-console/">https://search.google.com/search-console/&lt;/a>，在&lt;strong>网页前缀模块&lt;/strong>里面输入自己网页地址，点击继续。&lt;/p></description></item><item><title>再回首</title><link>https://puwei-git.github.io/about/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;p>拾起旧时光的几片落叶，&lt;/p>
+&lt;p>每一片都承载着岁月的痕迹。&lt;/p>
+&lt;p>它们静静地躺在记忆的角落，&lt;/p>
+&lt;p>等待某一天被重新唤醒。&lt;/p></description></item><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Thu, 14 Nov 2024 12:05:39 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
 &lt;ul>
 &lt;li>本教程仅保证Pycharm 2022.3版本及以下激活成功。&lt;/li>
 &lt;li>本教程参考自&lt;a href="https://blog.junxu666.top/p/7624.html">程序员徐公博客&lt;/a>，根据个人需要，有部分删改。&lt;/li>
@@ -17,39 +229,12 @@
 &lt;li>卸载完成后，双击刚刚下载好的 Pycharm 2022.3 版本安装包。弹框会提示选择安装路径，我这里直接选择的默认安装路径C:\Program Files\JetBrains\PyCharm 2022.3.2&lt;/li>
 &lt;li>然后，&lt;strong>勾选 Create Desktop Shortcut&lt;/strong> 创建 Pycharm 桌面快捷启动方式，以方便后面快速打开 Pycharm，再点击 Next 按钮 ，点击 Install 按钮，开始安装。&lt;/li>
 &lt;li>等待安装完成后，&lt;strong>勾选 Run Pycharm&lt;/strong>, 点击 Finish 按钮即运行 Pycharm 。
-Pycharm 运行成功后，会弹出如下对话框
-&lt;img src="https://s2.loli.net/2025/01/17/FWKhXU8irngulA6.png" alt="image.png|625">
-&lt;img src="https://s2.loli.net/2025/01/17/IEMCJRN4jrVfyTD.png" alt="image.png|550">&lt;/li>
+Pycharm 运行成功后，会弹出如下对话框&lt;/li>
 &lt;/ul>
-&lt;p>这里会强制用户需要先登录 JetBrains 账户才能使用：
-&lt;img src="https://s2.loli.net/2025/01/17/aeDCHSqz9kNZbo3.png" alt="image.png">&lt;/p></description></item><item><title>再回首</title><link>https://puwei-git.github.io/about/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;p>拾起旧时光的几片落叶，&lt;/p>
-&lt;p>每一片都承载着岁月的痕迹。&lt;/p>
-&lt;p>它们静静地躺在记忆的角落，&lt;/p>
-&lt;p>等待某一天被重新唤醒。&lt;/p></description></item><item><title>杂货铺</title><link>https://puwei-git.github.io/wiki/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://puwei-git.github.io/wiki/</guid><description>&lt;h3 id="博客搭建过程参考待整理">博客搭建过程参考（待整理）&lt;/h3>
-&lt;ul>
-&lt;li>主题：&lt;a href="https://github.com/loveminimal/hugo-theme-virgo">virgo&lt;/a>&lt;/li>
-&lt;li>B站视频：&lt;a href="https://www.bilibili.com/video/BV1H5CiYHEQR?spm_id_from=333.788.recommend_more_video.1&amp;amp;vd_source=15a167d09b9cba40e860bfcd6533b202">陈三月Jules&lt;/a>&lt;/li>
-&lt;li>github部署：
--配置：&lt;a href="https://aituyaa.com/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-hugo-theme-virgo-%E4%B8%BB%E9%A2%98/">virgo作者博客&lt;/a>&lt;/li>
-&lt;li>图床：smms，&lt;a href="https://blog.csdn.net/m0_56311797/article/details/134598968">配置&lt;/a>&lt;/li>
-&lt;li>obdidian侧：&lt;a href="https://blog.csdn.net/gitblog_00893/article/details/141238667">配置&lt;/a>
-obsidian + picgo 报错 upload failed, check dev console，直接下载最新版picgo重新安装配置就可以正常使用了&lt;/li>
-&lt;li>写文章：obsidian&lt;/li>
-&lt;li>待添加：背景音乐、博客搬家、主题优化（字体颜色大小等）、代码复制。。。&lt;/li>
-&lt;/ul>
-&lt;h4 id="将网站收录到googlebaidu失败">将网站收录到Google，baidu（失败）&lt;/h4>
-&lt;p>谷歌收录网站：&lt;a href="https://search.google.com/search-console/">https://search.google.com/search-console/&lt;/a>，在&lt;strong>网页前缀模块&lt;/strong>里面输入自己网页地址，点击继续。&lt;/p></description></item><item><title>蓝牙突然无法启动，无法连接（ubuntu 22.04）</title><link>https://puwei-git.github.io/posts/%E8%93%9D%E7%89%99%E7%AA%81%E7%84%B6%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5ubuntu-22.04/</link><pubDate>Fri, 24 May 2024 09:44:26 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E8%93%9D%E7%89%99%E7%AA%81%E7%84%B6%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5ubuntu-22.04/</guid><description>&lt;h3 id="问题描述">问题描述&lt;/h3>
-&lt;p>ubuntu的蓝牙之前正常使用，突然无法使用，并且wifi等没有问题。主要错误标示为Bluetooth: hci0: Reading Intel version command failed (-110)
-&lt;img src="https://i-blog.csdnimg.cn/blog_migrate/9359c03615288908f378c01713f3029f.png" alt="在这里插入图片描述">
-图中开启的地方可以拨动，但是拨动后并没有反应，也不变颜色。&lt;/p></description></item><item><title>基于Docker的PyTorch深度学习环境配置（Ubuntu 22.04）</title><link>https://puwei-git.github.io/posts/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84pytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-22.04/</link><pubDate>Tue, 21 May 2024 22:10:38 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84pytorch%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AEubuntu-22.04/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
-&lt;ul>
-&lt;li>为解决不同项目的深度学习环境不同以及配置配置麻烦的问题，采用docker容器，通过下载运行&lt;a href="https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch/tags">官网&lt;/a>现成的容器进行配置。&lt;/li>
-&lt;li>为解决docker内无法直观显示图片等问题，采用PyCharm调用docker中的环境。&lt;/li>
-&lt;li>本配置使用本机的docker,而不是服务器中的docker,后续有需要或将此文章更新为两种配置。&lt;/li>
-&lt;li>配置此文环境且写此文档时，本机电脑配置为AMD Ryzen 9 3900X + NVIDIA GeForce GTX 1660 SUPER。&lt;/li>
-&lt;li>本机系统为：Ubuntu 22.04&lt;/li>
-&lt;/ul>
-&lt;p>PS：由于前后花费较多时间，并且文档整理期间也有事情耽误几天，或有遗漏错误，还望指正！&lt;/p></description></item><item><title>Linux基础操作命令（Ubuntu环境）</title><link>https://puwei-git.github.io/posts/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4ubuntu%E7%8E%AF%E5%A2%83/</link><pubDate>Tue, 14 May 2024 16:27:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4ubuntu%E7%8E%AF%E5%A2%83/</guid><description>&lt;h2 id="shell基本操作命令选项参数">Shell基本操作：命令+选项+参数&lt;/h2>
+&lt;p>&lt;img src="https://s2.loli.net/2025/01/17/FWKhXU8irngulA6.png" alt="image.png|400">&lt;/p></description></item><item><title>蓝牙突然无法启动，无法连接（ubuntu 22.04）</title><link>https://puwei-git.github.io/posts/%E8%93%9D%E7%89%99%E7%AA%81%E7%84%B6%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5ubuntu-22.04/</link><pubDate>Fri, 24 May 2024 09:44:26 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E8%93%9D%E7%89%99%E7%AA%81%E7%84%B6%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5ubuntu-22.04/</guid><description>&lt;h3 id="问题描述">问题描述&lt;/h3>
+&lt;p>ubuntu的蓝牙之前正常使用，突然无法使用，并且wifi等没有问题。主要错误标示为Bluetooth: hci0: Reading Intel version command failed (-110)&lt;/p>
+&lt;p>&lt;img src="https://s2.loli.net/2025/01/23/Aar1QTGzyg28Hwh.png" alt="image.png">&lt;/p>
+&lt;p>图中开启的地方可以拨动，但是拨动后并没有反应，也不变颜色。&lt;/p></description></item><item><title>Linux基础操作命令（Ubuntu环境）</title><link>https://puwei-git.github.io/posts/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4ubuntu%E7%8E%AF%E5%A2%83/</link><pubDate>Tue, 14 May 2024 16:27:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4ubuntu%E7%8E%AF%E5%A2%83/</guid><description>&lt;h2 id="shell基本操作命令选项参数">Shell基本操作：命令+选项+参数&lt;/h2>
 &lt;h3 id="系统命令">系统命令&lt;/h3>
 &lt;pre>&lt;code>目录信息查看命令：ls 
 目录切换命令：cd 
@@ -71,7 +256,16 @@ obsidian + picgo 报错 upload failed, check dev console，直接下载最新版
 切换用户命令：su 
 进入root界面：sudo -su 
 &lt;/code>&lt;/pre>
-&lt;p>文件查询和搜索：&lt;/p></description></item><item><title>千里之行，始于足下</title><link>https://puwei-git.github.io/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/nav/</guid><description>&lt;h3 id="guet">GUET&lt;/h3>
+&lt;p>文件查询和搜索：&lt;/p></description></item><item><title/><link>https://puwei-git.github.io/snippets/frontmatter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/snippets/frontmatter/</guid><description>&lt;pre tabindex="0">&lt;code>---
+title: &amp;lt;% tp.file.title %&amp;gt;
+aliases: 
+tags:
+ - 待分类
+date: &amp;lt;% tp.date.now(&amp;#34;YYYY-MM-DDTHH:mm:ssZ&amp;#34;) %&amp;gt;
+lastmod: 
+draft: true
+---
+&lt;/code>&lt;/pre></description></item><item><title>千里之行，始于足下</title><link>https://puwei-git.github.io/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/nav/</guid><description>&lt;h3 id="guet">GUET&lt;/h3>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -227,7 +421,7 @@ obsidian + picgo 报错 upload failed, check dev console，直接下载最新版
  &lt;td>&lt;a href="https://hunhepan.com/">混合盘官网&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://yftk.fun/">猿分天空&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.huluobuzhou.com/">胡萝卜周&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://xydh.fun/puwei">炫猿导航页&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://xydh.fun/puwei">旧导航页&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.processon.com/login" title="在线思维导图">Process On&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -248,7 +442,7 @@ obsidian + picgo 报错 upload failed, check dev console，直接下载最新版
  &lt;td>&amp;gt; &lt;a href="https://www.chaspark.com/">黄大年茶思屋&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://medium.com/">Medium&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://news.ycombinator.com/">Hacker News&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.csdn.net/">CSDN&lt;/a>&lt;/td>
+ &lt;td>&amp;gt; &lt;a href="https://www.csdn.net/">CSDN&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.zhihu.com/">知乎&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
@@ -295,38 +489,66 @@ obsidian + picgo 报错 upload failed, check dev console，直接下载最新版
  &lt;tbody>
  &lt;tr>
  &lt;td>&lt;a href="https://www.taobao.com/">淘宝&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://music.163.com/">网易云&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pinduoduo.com/">拼多多&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.miyoushe.com/">米游社&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://mhyy.mihoyo.com/">米哈游云游戏&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://web.sanguosha.com/220/h5_2/index_210000.php">三国杀&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://byruthub.org/">俄国破解游戏&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pgame.vip/">pgame游戏下载&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="视频动漫音乐">视频&amp;amp;动漫&amp;amp;音乐&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
  &lt;td>&lt;a href="https://www.douyin.com/">抖音&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.miguvideo.com/p/channel/">咪咕视频&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.mgtv.com/">芒果tv&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://v.qq.com/">腾讯视频&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.iqiyi.com/">爱奇艺&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.pinduoduo.com/">拼多多&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.miyoushe.com/">米游社&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.youtube.com/">YouTube&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://v.qq.com/">腾讯视频&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
+ &lt;td>&lt;a href="https://www.iqiyi.com/">爱奇艺&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.xiaohongshu.com">小红书&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://twitter.com/home">Twitter / X&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://mhyy.mihoyo.com/">米哈游云游戏&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://wall.alphacoders.com/?lang=Chinese">壁纸&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://dick.xfani.com/">稀饭动漫&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.pgame.vip/">pgame游戏下载&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://music.163.com/">网易云&lt;/a>&lt;/td>
  &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="壁纸">壁纸&lt;/h3>
+&lt;table>
+ &lt;thead>
  &lt;tr>
- &lt;td>&lt;a href="https://web.sanguosha.com/220/h5_2/index_210000.php">三国杀&lt;/a>&lt;/td>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://wall.alphacoders.com/?lang=Chinese">WALLPAPER ABYSS&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.pixiv.net/">pixiv&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://pixivic.com/?VNK=a7b72159">pixivic&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://byruthub.org/">俄国破解游戏&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.xiaohongshu.com">小红书&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="">&lt;/a>&lt;/td>
- &lt;td>&lt;a href="">&lt;/a>&lt;/td>
- &lt;td>&lt;a href="">&lt;/a>&lt;/td>
- &lt;td>&lt;a href="">&lt;/a>&lt;/td>
- &lt;td>&lt;a href="">&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
