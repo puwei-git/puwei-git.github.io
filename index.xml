@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 09 Feb 2025 08:52:18 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 09 Feb 2025 10:58:10 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
 &lt;ul>
 &lt;li>什么是虚拟环境
 它是一个虚拟化，从电脑独立开辟出来的环境。通俗的来讲，虚拟环境就是借助虚拟机docker来把一部分内容独立出来，我们把这部分独立出来的东西称作“容器”，在这个容器中，我们可以只安装我们需要的依赖包，各个容器之间互相隔离，互不影响。&lt;/li>
@@ -223,13 +223,10 @@ obsidian + picgo 报错 upload failed, check dev console，直接下载最新版
 &lt;li>待添加：背景音乐、博客搬家、主题优化（字体颜色大小等）、代码复制。。。&lt;/li>
 &lt;/ul>
 &lt;h4 id="将网站收录到googlebaidu失败">将网站收录到Google，baidu（失败）&lt;/h4>
-&lt;p>谷歌收录网站：&lt;a href="https://search.google.com/search-console/">https://search.google.com/search-console/&lt;/a>，在&lt;strong>网页前缀模块&lt;/strong>里面输入自己网页地址，点击继续。&lt;/p></description></item><item><title>再回首</title><link>https://puwei-git.github.io/about/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;center>**拾起旧时光的几片落叶**，&lt;/center>
-&lt;center>每一片都承载着岁月的痕迹。&lt;/center>
-&lt;center>它们静静地躺在记忆的角落，&lt;/center>
-&lt;center>等待某一天被重新唤醒。&lt;/center>
-&lt;hr>
-&lt;center>----------分割线^W^分割线----------&lt;/center>
-&lt;hr></description></item><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Thu, 14 Nov 2024 12:05:39 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
+&lt;p>谷歌收录网站：&lt;a href="https://search.google.com/search-console/">https://search.google.com/search-console/&lt;/a>，在&lt;strong>网页前缀模块&lt;/strong>里面输入自己网页地址，点击继续。&lt;/p></description></item><item><title>再回首</title><link>https://puwei-git.github.io/about/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0800</pubDate><guid>https://puwei-git.github.io/about/</guid><description>&lt;center>&lt;strong>拾起旧时光的几片落叶，&lt;/strong>&lt;/center>
+&lt;center>&lt;strong>每一片都承载着岁月的痕迹。&lt;/strong>&lt;/center>
+&lt;center>&lt;strong>它们静静地躺在记忆的角落，&lt;/strong>&lt;/center>
+&lt;center>&lt;strong>等待某一天被重新唤醒。&lt;/strong>&lt;/center></description></item><item><title>Pycharm专业版安装破解教程</title><link>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</link><pubDate>Thu, 14 Nov 2024 12:05:39 +0800</pubDate><guid>https://puwei-git.github.io/posts/pycharm%E4%B8%93%E4%B8%9A%E7%89%88%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3%E6%95%99%E7%A8%8B/</guid><description>&lt;h2 id="说明">说明&lt;/h2>
 &lt;ul>
 &lt;li>本教程仅保证Pycharm 2022.3版本及以下激活成功。&lt;/li>
 &lt;li>本教程参考自&lt;a href="https://blog.junxu666.top/p/7624.html">程序员徐公博客&lt;/a>，根据个人需要，有部分删改。&lt;/li>
