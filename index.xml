@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 18 Feb 2025 12:13:40 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 02 Mar 2025 21:25:50 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
 &lt;ul>
 &lt;li>什么是虚拟环境
 它是一个虚拟化，从电脑独立开辟出来的环境。通俗的来讲，虚拟环境就是借助虚拟机docker来把一部分内容独立出来，我们把这部分独立出来的东西称作“容器”，在这个容器中，我们可以只安装我们需要的依赖包，各个容器之间互相隔离，互不影响。&lt;/li>
@@ -414,10 +414,17 @@ draft: true
  &lt;tbody>
  &lt;tr>
  &lt;td>&amp;gt; &lt;a href="https://chat.openai.com/chat">ChatGPT&lt;/a>&lt;/td>
- &lt;td>&amp;gt; &lt;a href="https://chat.deepseek.com/">DeepSeek&lt;/a>&lt;/td>
+ &lt;td>&amp;gt; &lt;a href="https://www.deepseek.com/">DeepSeek&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://gemini.google.com/app?utm_source=app_launcher">Gemini&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.bing.com/new">bing chat&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://chat86.co/524395">Chat8&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://cloud.siliconflow.cn/models">硅基流动&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.volcengine.com/">火山引擎&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://yuanbao.tencent.com/chat/naQivTmsDa">腾讯元宝&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;a href="https://simpletex.cn/ai/latex_ocr">公式识别&lt;/a>&lt;/td>
@@ -437,14 +444,14 @@ draft: true
  &lt;td>&lt;a href="https://hunhepan.com/">混合盘官网&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://yftk.fun/">猿分天空&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.huluobuzhou.com/">胡萝卜周&lt;/a>&lt;/td>
- &lt;td>&amp;gt;&lt;a href="https://xydh.fun/puwei">导航页&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://xydh.fun/puwei">导航页&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.processon.com/login" title="在线思维导图">Process On&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;a href="https://myplugin.speedtest.cn/">测速网&lt;/a>&lt;/td>
  &lt;td>&amp;gt;&lt;a href="https://dida365.com/webapp/#c/all/calendar/m">滴答清单&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://2fa.live/">2fa&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.autodl.com/">AutoDL算力云&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -465,7 +472,7 @@ draft: true
  &lt;td>&amp;gt; &lt;a href="https://www.chaspark.com/">黄大年茶思屋&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://medium.com/">Medium&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://news.ycombinator.com/">Hacker News&lt;/a>&lt;/td>
- &lt;td>&amp;gt; &lt;a href="https://www.csdn.net/">CSDN&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.csdn.net/">CSDN&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.zhihu.com/">知乎&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
