@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 02 Mar 2025 21:25:50 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 02 Mar 2025 21:41:57 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>conda&amp;pip 常用命令</title><link>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Fri, 24 Jan 2025 00:19:48 +0800</pubDate><guid>https://puwei-git.github.io/posts/conda--pip-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h2 id="conda-常用命令">conda 常用命令&lt;/h2>
 &lt;ul>
 &lt;li>什么是虚拟环境
 它是一个虚拟化，从电脑独立开辟出来的环境。通俗的来讲，虚拟环境就是借助虚拟机docker来把一部分内容独立出来，我们把这部分独立出来的东西称作“容器”，在这个容器中，我们可以只安装我们需要的依赖包，各个容器之间互相隔离，互不影响。&lt;/li>
@@ -281,35 +281,7 @@ date: &amp;lt;% tp.date.now(&amp;#34;YYYY-MM-DDTHH:mm:ssZ&amp;#34;) %&amp;gt;
 lastmod: 
 draft: true
 ---
-&lt;/code>&lt;/pre></description></item><item><title>千里之行，始于足下</title><link>https://puwei-git.github.io/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/nav/</guid><description>&lt;h3 id="guet">GUET&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;a href="https://www.guet.edu.cn/lib/">桂电图书馆&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://v.guet.edu.cn/">桂电VPN&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://iw.guet.edu.cn/">桂电智慧校园&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.guet.edu.cn/gra/_t14/">桂电研究生院&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://yjsjy.guet.edu.cn/(S(hyaus1mtmttirosr2pyiqmdc))/home/stulogin">桂电研究生管理系统&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Ffwdt.guet.edu.cn%2FEIP%2Fuser%2Findex">桂电学校综合服务大厅&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.szlcsc.com/">立创商城&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.xuexi.cn/">学习强国&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://zhtj.youth.cn/zhtj/">智慧团建&lt;/a>&lt;/td>
- &lt;td>&lt;a href="http://10.0.1.5/">注销页&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h3 id="bupt">BUPT&lt;/h3>
+&lt;/code>&lt;/pre></description></item><item><title>千里之行，始于足下</title><link>https://puwei-git.github.io/nav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puwei-git.github.io/nav/</guid><description>&lt;h3 id="bupt">BUPT&lt;/h3>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -488,6 +460,34 @@ draft: true
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="guet">GUET&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.guet.edu.cn/lib/">桂电图书馆&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://v.guet.edu.cn/">桂电VPN&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://iw.guet.edu.cn/">桂电智慧校园&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.guet.edu.cn/gra/_t14/">桂电研究生院&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://yjsjy.guet.edu.cn/(S(hyaus1mtmttirosr2pyiqmdc))/home/stulogin">桂电研究生管理系统&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Ffwdt.guet.edu.cn%2FEIP%2Fuser%2Findex">桂电学校综合服务大厅&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.szlcsc.com/">立创商城&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.xuexi.cn/">学习强国&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://zhtj.youth.cn/zhtj/">智慧团建&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://10.0.1.5/">注销页&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
