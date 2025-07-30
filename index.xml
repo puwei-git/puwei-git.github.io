@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 08 Jul 2025 23:46:21 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>每日饮食</title><link>https://puwei-git.github.io/posts/%E6%AF%8F%E6%97%A5%E9%A5%AE%E9%A3%9F/</link><pubDate>Tue, 04 Mar 2025 23:12:56 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E6%AF%8F%E6%97%A5%E9%A5%AE%E9%A3%9F/</guid><description>&lt;h3 id="早餐">早餐&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>落木庭</title><link>https://puwei-git.github.io/</link><description>Recent content on 落木庭</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 30 Jul 2025 21:52:21 +0800</lastBuildDate><atom:link href="https://puwei-git.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>每日饮食</title><link>https://puwei-git.github.io/posts/%E6%AF%8F%E6%97%A5%E9%A5%AE%E9%A3%9F/</link><pubDate>Tue, 04 Mar 2025 23:12:56 +0800</pubDate><guid>https://puwei-git.github.io/posts/%E6%AF%8F%E6%97%A5%E9%A5%AE%E9%A3%9F/</guid><description>&lt;h3 id="早餐">早餐&lt;/h3>
 &lt;h4 id="-推荐早餐清单">&lt;strong>✅ 推荐早餐清单&lt;/strong>&lt;/h4>
 &lt;h5 id="1-粥类健脾养胃首选">&lt;strong>1. 粥类（健脾养胃首选）&lt;/strong>&lt;/h5>
 &lt;table>
@@ -513,8 +513,8 @@ draft: true
  &lt;td>&lt;a href="https://www.researchgate.net/">ResearchGate&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;a href="https://ijournal.topeditsci.com/">爱文献&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://template-selector.ieee.org/secure/templateSelector/publicationType">IEEE模板&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://ijournal.topeditsci.com/">JCR分区&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://advanced.fenqubiao.com/">中科院分区&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://researchrabbitapp.com/">Research Rabbit&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://paperswithcode.com/">Paper With Code&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://openreview.net/">OpenReview&lt;/a>&lt;/td>
@@ -523,7 +523,7 @@ draft: true
  &lt;td>&lt;a href="https://pss-system.cponline.cnipa.gov.cn/conventionalSearch">中国专利检索&lt;/a>&lt;/td>
  &lt;td>&lt;a href="http://epub.cnipa.gov.cn/Index">国家知识产权局&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://kd.nsfc.cn/finalProjectInit">国自然检索&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://template-selector.ieee.org/secure/templateSelector/publicationType">IEEE模板&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
@@ -535,7 +535,7 @@ draft: true
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;a href="https://spaces.ac.cn/">科学空间&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>&lt;a href="https://www.cnblogs.com/">博客园&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -556,7 +556,7 @@ draft: true
  &lt;tbody>
  &lt;tr>
  &lt;td>&amp;gt; &lt;a href="https://chat.openai.com/chat">ChatGPT&lt;/a>&lt;/td>
- &lt;td>&amp;gt; &lt;a href="https://www.deepseek.com/">DeepSeek&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.deepseek.com/">DeepSeek&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://gemini.google.com/app?utm_source=app_launcher">Gemini&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.bing.com/new">bing chat&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://chat86.co/524395">Chat8&lt;/a>&lt;/td>
@@ -604,7 +604,7 @@ draft: true
  &lt;td>&lt;a href="https://mail.google.com/">谷歌邮箱&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&amp;gt; &lt;a href="https://szfilehelper.weixin.qq.com/">微信文件传输&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://szfilehelper.weixin.qq.com/">微信文件传输&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.cryxr.xyz/#/dashboard">探索者&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://smms.app/home/">SM.MS图床&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://www.jianguoyun.com/">坚果云&lt;/a>&lt;/td>
@@ -626,10 +626,10 @@ draft: true
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;a href="https://xueqiu.com/">雪球&lt;/a>&lt;/td>
- &lt;td>&amp;gt; &lt;a href="https://youzhiyouxing.cn/">有知有行&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://youzhiyouxing.cn/">有知有行&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://getcoldturkey.com/">Cold Turkey&lt;/a>&lt;/td>
  &lt;td>&amp;gt; &lt;a href="https://www.binance.com/zh-CN/futures/BTCUSDT">币安BTC&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.kungfu-trader.com/index.php/2024/05/11/article31/">功夫量化&lt;/a>&lt;/td>
+ &lt;td>&amp;gt; &lt;a href="https://www.kungfu-trader.com/index.php/2024/05/11/article31/">功夫量化&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;a href="https://trading.bitfinex.com/t/BTC:UST?type=exchange"> Bitfinex-btc&lt;/a>&lt;/td>
@@ -637,6 +637,13 @@ draft: true
  &lt;td>&lt;a href="https://tjupt.org/">北洋园PT&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://translate.google.com/?sl=en&amp;amp;tl=zh-CN&amp;amp;op=translate">google翻译&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://sls.cdb.com.cn/#/login">国家开发银行&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://leetcode.cn/">力扣&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -654,7 +661,7 @@ draft: true
  &lt;tbody>
  &lt;tr>
  &lt;td>&lt;a href="https://en.wikipedia.org/wiki/Main_Page">维基百科&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://zh.z-lib.gs/">Z-Library&lt;/a>&lt;/td>
+ &lt;td>&amp;gt; &lt;a href="https://z-lib.fm/">Z-Library&lt;/a>&lt;/td>
  &lt;td>&lt;a href="http://www.ucdrs.superlib.net/">全国图书馆&lt;/a>&lt;/td>
  &lt;td>&lt;a href="http://libgen.rs/">Library Gene&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://gutenberg.org/">Project Gutenberg&lt;/a>&lt;/td>
@@ -662,6 +669,132 @@ draft: true
  &lt;tr>
  &lt;td>&lt;a href="https://chinasys.org/opensource/index.html">ChinaSys开源平台&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="英语">英语&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.duolingo.com/">多邻国&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="http://www.pigai.org/">批改网&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.youzack.com/">英语听力精听&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.icourse163.org/">MOOC&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="游戏">游戏&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.miyoushe.com/">米游社&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://mhyy.mihoyo.com/">米哈游云游戏&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://web.sanguosha.com/220/h5_2/index_210000.php">三国杀&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://byruthub.org/">俄国破解游戏&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pgame.vip/">pgame游戏下载&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://ngabbs.com/">NGA&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://discord.com/shop">Discord&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://steampy.com/cdKey/cdKey">steam PY&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="视频音乐">视频&amp;amp;音乐&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.douyin.com/">抖音&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.miguvideo.com/p/channel/">咪咕视频&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.mgtv.com/">芒果tv&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.youtube.com/">YouTube&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://v.qq.com/">腾讯视频&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.iqiyi.com/">爱奇艺&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.xiaohongshu.com">小红书&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://twitter.com/home">Twitter / X&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://dick.xfani.com/">稀饭动漫&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://music.163.com/">网易云&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.sump4.cc/" title="MP4电影下载，磁链">MP4电影&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.yfsp.tv/">爱壹帆&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="图片">图片&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://wall.alphacoders.com/?lang=Chinese">WALLPAPER ABYSS&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pixiv.net/">pixiv&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://pixivic.com/?VNK=a7b72159">pixivic&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="购物">购物&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;a href="https://www.taobao.com/">淘宝&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://www.pinduoduo.com/">拼多多&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -693,90 +826,6 @@ draft: true
  &lt;td>&lt;a href="https://www.xuexi.cn/">学习强国&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://zhtj.youth.cn/zhtj/">智慧团建&lt;/a>&lt;/td>
  &lt;td>&lt;a href="http://10.0.1.5/">注销页&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h3 id="进步">进步&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;a href="https://leetcode.cn/">力扣&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.duolingo.com/">多邻国&lt;/a>&lt;/td>
- &lt;td>&lt;a href="http://www.pigai.org/">批改网&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.youzack.com/">英语听力精听&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.icourse163.org/">MOOC&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h3 id="躺平">躺平&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;th>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;a href="https://www.taobao.com/">淘宝&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.pinduoduo.com/">拼多多&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://www.miyoushe.com/">米游社&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://mhyy.mihoyo.com/">米哈游云游戏&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://web.sanguosha.com/220/h5_2/index_210000.php">三国杀&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://byruthub.org/">俄国破解游戏&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.pgame.vip/">pgame游戏下载&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://ngabbs.com/">NGA&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://discord.com/shop">Discord&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://steampy.com/cdKey/cdKey">steam PY&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://www.douyin.com/">抖音&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.miguvideo.com/p/channel/">咪咕视频&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.mgtv.com/">芒果tv&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.youtube.com/">YouTube&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://v.qq.com/">腾讯视频&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://www.iqiyi.com/">爱奇艺&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.xiaohongshu.com">小红书&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://twitter.com/home">Twitter / X&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://dick.xfani.com/">稀饭动漫&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://music.163.com/">网易云&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://www.sump4.cc/" title="MP4电影下载，磁链">MP4电影&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.yfsp.tv/">爱壹帆&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;a href="https://wall.alphacoders.com/?lang=Chinese">WALLPAPER ABYSS&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://www.pixiv.net/">pixiv&lt;/a>&lt;/td>
- &lt;td>&lt;a href="https://pixivic.com/?VNK=a7b72159">pixivic&lt;/a>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
