@@ -39,7 +39,12 @@ conda remove -n &amp;lt;env_name&amp;gt; &amp;ndash;all&lt;/li>
 &lt;h2 id="conda设置默认虚拟环境">conda设置默认虚拟环境&lt;/h2>
 &lt;p>输入：vim ~/.bashrc
 在最后一行添加：conda activate &amp;lt;env_name&amp;gt;
-其中，&amp;lt;env_name&amp;gt;为你需要设置的默认启动虚拟环境名称&lt;/p></description></item><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
+其中，&amp;lt;env_name&amp;gt;为你需要设置的默认启动虚拟环境名称&lt;/p></description></item><item><title>hugo常用命令</title><link>https://puwei-git.github.io/posts/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link><pubDate>Thu, 23 Jan 2025 23:00:01 +0800</pubDate><guid>https://puwei-git.github.io/posts/hugo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid><description>&lt;h3 id="hugo安装">hugo安装&lt;/h3>
+&lt;h4 id="下载">下载&lt;/h4>
+&lt;p>安装地址：&lt;a href="https://github.com/gohugoio/hugo/releases">https://github.com/gohugoio/hugo/releases&lt;/a>&lt;/p>
+&lt;p>建议安装extended版本 有些主题需要在该版本下运行：&lt;a href="https://github.com/gohugoio/hugo/releases/download/v0.140.2/hugo_extended_0.140.2_windows-amd64.zip">hugo_extended_0.140.2_windows-amd64.zip&lt;/a>&lt;/p>
+&lt;h4 id="配置环境">配置环境&lt;/h4>
+&lt;p>创建一个名为Hugo的文件夹，其下新建bin文件夹，将解压的hugo.exe文件放入bin目录下。&lt;/p></description></item><item><title>markdown基本语法</title><link>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link><pubDate>Mon, 20 Jan 2025 17:14:30 +0800</pubDate><guid>https://puwei-git.github.io/posts/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid><description>&lt;h2 id="语法速查">语法速查&lt;/h2>
 &lt;table>
  &lt;thead>
  &lt;tr>
